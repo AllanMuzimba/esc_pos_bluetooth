@@ -11,11 +11,10 @@ dependencies:
     sdk: flutter
   rxdart: ^0.26.0
 
- esc_pos_utils:
-  git:
-    url: https://github.com/AllanMuzimba/esc_pos_utils.git
-    ref: master
-   # or main if you renamed your branch to main
+  esc_pos_utils:
+    git:
+      url: https://github.com/AllanMuzimba/esc_pos_utils.git
+      ref: master  # or 'main' if that's your branch
 
   flutter_bluetooth_basic: ^0.1.7
 
