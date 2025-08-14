@@ -16,7 +16,7 @@ dependencies:
       url: https://github.com/AllanMuzimba/esc_pos_utils.git
       ref: master  # or 'main' if that's your branch
 
-  flutter_blue_plus: ^1.0.0
+ flutter_blue_plus: ^0.9.4
 
 dev_dependencies:
   flutter_test:
